@@ -1,0 +1,3 @@
+services:
+  nodegcloud:
+    image: finalnode:v1
